@@ -1,0 +1,17 @@
+{
+    "FirstName": "vinayrakyala",
+    "LastName": "Rl",
+    "Email": "abcddhdjd@gamil.com",
+    "gender": "Male",
+    "Phone": "7777777777",
+    "DOB": "1-1-1997",
+    "subjects": [
+      "English",
+      "Maths"
+    ],
+    "address":{
+    "Street": "777",
+    "City": "Hyd",
+    "Pincode": "122001"}
+  }
+  
